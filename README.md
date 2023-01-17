@@ -1,8 +1,11 @@
 # publicprojects
 
 Name: Karina Kallas
+
 Course: CS 325
+
 Assignment: Assignment 8 - Portfolio Project
+
 Due Date: May 24, 2022
 
 Description: An application of Graph traversal to solve a problem.
